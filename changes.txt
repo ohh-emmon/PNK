@@ -1,0 +1,1 @@
+sudo pacman -S noto-fonts-emoji geary noto-fonts noto-fonts-cjk noto-fonts-extra
